@@ -1,0 +1,25 @@
+# Local state, models, credentials and generated reports
+work/
+config.env
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.gguf
+*.safetensors
+*.sqlite*
+*.db
+*.log
+*.pid
+*.key
+*.pem
+*.part
+node_modules/
+outputs/security-reports/
+*.egg-info/
+build/
+dist/
